@@ -1,0 +1,4 @@
+We wants to run the Dicom viewer application from terminal server (RDB) but it is giving error and not open from the remote server.
+We have desktop application which is developed in C# and Dicom has configure in our application and our application deployed on the terminal server 
+but DICOM is not run on client side please any body give the solution.
+
